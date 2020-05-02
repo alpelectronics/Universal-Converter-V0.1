@@ -1,7 +1,7 @@
-# universalconverter
+# Universal Converter V0.1
 Universal Converter is a converter for Arduino, Adafruit Feather and Texas Instruments LaunchPad
 
-GET STARTED WITH UNIVERSAL CONVERTER!
+# GET STARTED WITH UNIVERSAL CONVERTER!
 
 Universal Converter is designed to be hobbyist friendly and fully open source. There are number of possible combinations shown here will help you get yours work!
 
